@@ -1,2 +1,13 @@
 *.class
 *.log
+
+.git
+
+# VIM swapfiles
+.*.sw?
+
+# IntelliJ
+.idea/
+
+# Scala build directories
+target/
